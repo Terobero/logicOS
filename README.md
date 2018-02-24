@@ -1,2 +1,2 @@
 # logicOS
-My Operation System
+My Operating System
